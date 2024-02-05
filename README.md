@@ -8,3 +8,7 @@ Grid Editor:
 
 Snake:
 ![image](https://github.com/vKekz/PraktikumUnity/assets/43937246/618dfc2d-3e9d-452c-812b-96e4c2dacadd)
+
+with Main Menu and Difficulty Selector:
+![image](https://github.com/vKekz/PraktikumUnity/assets/43937246/0a1c6807-bcef-4627-a0f8-31273eacbc5d)
+![image](https://github.com/vKekz/PraktikumUnity/assets/43937246/ac0121a9-9af1-4258-a2c2-64d569e09a66)
